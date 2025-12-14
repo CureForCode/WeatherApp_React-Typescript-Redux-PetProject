@@ -80,6 +80,6 @@ src/
 ---
 
 ## 📄 License
-MIT © 2025 Artur Somov
+© 2025 Artur Somov
 
 ---
