@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://CureForCode.github.io/React_Redux_54elfs_somov",
+  "homepage": "https://CureForCode.github.io/WeatherApp_React-Typescript-Redux-PetProject/",
   "scripts": {
     "build": "tsc -b && vite build",
     "postbuild": "node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",

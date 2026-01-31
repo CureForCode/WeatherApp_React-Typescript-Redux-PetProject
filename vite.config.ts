@@ -3,7 +3,7 @@ import * as path from "node:path"
 import { defineConfig } from "vitest/config"
 
 export default defineConfig({
-  base: "/React_Redux_54elfs_somov/",
+  base: "/WeatherApp_React-Typescript-Redux-PetProject/",
   plugins: [react()],
   resolve: {
     alias: {
